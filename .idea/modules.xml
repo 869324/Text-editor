@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Text_Editor.iml" filepath="$PROJECT_DIR$/.idea/modules/Text_Editor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Greek letters/Text_Editor.Problems-Greek_letters.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Greek letters/Text_Editor.Problems-Greek_letters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Greek letters/Text_Editor.Problems-Greek_letters.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Greek letters/Text_Editor.Problems-Greek_letters.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Greek letters/Text_Editor.Problems-Greek_letters.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Greek letters/Text_Editor.Problems-Greek_letters.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/No  J/Text_Editor.Problems-No__J.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/No  J/Text_Editor.Problems-No__J.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/No  J/Text_Editor.Problems-No__J.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/No  J/Text_Editor.Problems-No__J.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/No  J/Text_Editor.Problems-No__J.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/No  J/Text_Editor.Problems-No__J.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Remove elements of a collection/Text_Editor.Problems-Remove_elements_of_a_collection.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Remove elements of a collection/Text_Editor.Problems-Remove_elements_of_a_collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Remove elements of a collection/Text_Editor.Problems-Remove_elements_of_a_collection.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Remove elements of a collection/Text_Editor.Problems-Remove_elements_of_a_collection.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Remove elements of a collection/Text_Editor.Problems-Remove_elements_of_a_collection.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Remove elements of a collection/Text_Editor.Problems-Remove_elements_of_a_collection.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Reversed list/Text_Editor.Problems-Reversed_list.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Reversed list/Text_Editor.Problems-Reversed_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Reversed list/Text_Editor.Problems-Reversed_list.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Reversed list/Text_Editor.Problems-Reversed_list.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Reversed list/Text_Editor.Problems-Reversed_list.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Reversed list/Text_Editor.Problems-Reversed_list.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Split a list into sublists/Text_Editor.Problems-Split_a_list_into_sublists.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Split a list into sublists/Text_Editor.Problems-Split_a_list_into_sublists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Split a list into sublists/Text_Editor.Problems-Split_a_list_into_sublists.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Split a list into sublists/Text_Editor.Problems-Split_a_list_into_sublists.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Split a list into sublists/Text_Editor.Problems-Split_a_list_into_sublists.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Split a list into sublists/Text_Editor.Problems-Split_a_list_into_sublists.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Text Editor/task/Text_Editor.Text_Editor-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Text Editor/task/Text_Editor.Text_Editor-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Text Editor/task/Text_Editor.Text_Editor-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Text Editor/task/Text_Editor.Text_Editor-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Text Editor/task/Text_Editor.Text_Editor-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Text Editor/task/Text_Editor.Text_Editor-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Text_Editor.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Text_Editor.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Text_Editor.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Text_Editor.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Text_Editor.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Text_Editor.util.test.iml" />
+    </modules>
+  </component>
+</project>
